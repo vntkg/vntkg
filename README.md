@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @vntkg, also known as Vineet.
-- For my main work visit @vntkmr.
+👋 Hi, I’m @vntkg, also known as Vineet. For my main work visit @vntkmr.
 
 
 <!---
